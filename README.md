@@ -11,3 +11,4 @@ In assignment 1, I learn how to calculate a monthly payment based on car price, 
  
 # Flowchart
 
+![WhatsApp Image 2019-11-10 at 10 33 20 PM](https://user-images.githubusercontent.com/55366890/68545835-d735cc80-040b-11ea-90b6-4cd3ee54e88a.jpeg)
